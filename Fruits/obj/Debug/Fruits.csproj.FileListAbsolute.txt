@@ -1,0 +1,7 @@
+E:\Source_Project\Fruits\obj\Debug\Fruits.csproj.AssemblyReference.cache
+E:\Source_Project\Fruits\obj\Debug\Fruits.csproj.CoreCompileInputs.cache
+E:\Source_Project\Fruits\bin\Debug\Fruits.exe.config
+E:\Source_Project\Fruits\bin\Debug\Fruits.exe
+E:\Source_Project\Fruits\bin\Debug\Fruits.pdb
+E:\Source_Project\Fruits\obj\Debug\Fruits.exe
+E:\Source_Project\Fruits\obj\Debug\Fruits.pdb

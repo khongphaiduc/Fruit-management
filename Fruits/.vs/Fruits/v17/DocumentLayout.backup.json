@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Source_Project\\Fruits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{183F5CA6-B4C4-4BC0-8EEE-8D8F1402D646}|Fruits.csproj|e:\\source_project\\fruits\\managerfruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183F5CA6-B4C4-4BC0-8EEE-8D8F1402D646}|Fruits.csproj|solutionrelative:managerfruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183F5CA6-B4C4-4BC0-8EEE-8D8F1402D646}|Fruits.csproj|E:\\Source_Project\\Fruits\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183F5CA6-B4C4-4BC0-8EEE-8D8F1402D646}|Fruits.csproj|solutionrelative:validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183F5CA6-B4C4-4BC0-8EEE-8D8F1402D646}|Fruits.csproj|E:\\Source_Project\\Fruits\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183F5CA6-B4C4-4BC0-8EEE-8D8F1402D646}|Fruits.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183F5CA6-B4C4-4BC0-8EEE-8D8F1402D646}|Fruits.csproj|E:\\Source_Project\\Fruits\\fruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183F5CA6-B4C4-4BC0-8EEE-8D8F1402D646}|Fruits.csproj|solutionrelative:fruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 119,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cs",
+              "DocumentMoniker": "E:\\Source_Project\\Fruits\\main.cs",
+              "RelativeDocumentMoniker": "main.cs",
+              "ToolTip": "E:\\Source_Project\\Fruits\\main.cs",
+              "RelativeToolTip": "main.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:11:52.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fruits.cs",
+              "DocumentMoniker": "E:\\Source_Project\\Fruits\\Fruits.cs",
+              "RelativeDocumentMoniker": "Fruits.cs",
+              "ToolTip": "E:\\Source_Project\\Fruits\\Fruits.cs",
+              "RelativeToolTip": "Fruits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:26:47.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerFruits.cs",
+              "DocumentMoniker": "E:\\Source_Project\\Fruits\\ManagerFruits.cs",
+              "RelativeDocumentMoniker": "ManagerFruits.cs",
+              "ToolTip": "E:\\Source_Project\\Fruits\\ManagerFruits.cs*",
+              "RelativeToolTip": "ManagerFruits.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:06:26.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "E:\\Source_Project\\Fruits\\Validate.cs",
+              "RelativeDocumentMoniker": "Validate.cs",
+              "ToolTip": "E:\\Source_Project\\Fruits\\Validate.cs",
+              "RelativeToolTip": "Validate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:44:22.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
