@@ -89,8 +89,9 @@ namespace Fruits
 
             foreach (Fruits s in listFruits)
             {    // {0,-10}  => hiểu là chứa value của biến có index 0 và cách trái 10 ký tự 
-                menu.AppendLine(String.Format("|{0,-10}|{1,-20}|{2,-20}|{3,-20 VND}|{4,-20}|", s.ID, s.Name, s.Price, s.Quanlity, s.Orgin));
+                menu.AppendLine(String.Format("|{0,-10}|{1,-20}|{2,-20}|{3,-20}|{4,-20}|", s.ID, s.Name, s.Price, s.Quanlity, s.Orgin));
             }
+            // sửa xong
 
             Console.WriteLine(menu.ToString());         
         }

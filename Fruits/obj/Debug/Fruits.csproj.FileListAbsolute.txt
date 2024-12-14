@@ -5,3 +5,10 @@ E:\Source_Project\Fruits\bin\Debug\Fruits.exe
 E:\Source_Project\Fruits\bin\Debug\Fruits.pdb
 E:\Source_Project\Fruits\obj\Debug\Fruits.exe
 E:\Source_Project\Fruits\obj\Debug\Fruits.pdb
+E:\GITHUB\Fruit-management\Fruits\bin\Debug\Fruits.exe.config
+E:\GITHUB\Fruit-management\Fruits\bin\Debug\Fruits.exe
+E:\GITHUB\Fruit-management\Fruits\bin\Debug\Fruits.pdb
+E:\GITHUB\Fruit-management\Fruits\obj\Debug\Fruits.csproj.AssemblyReference.cache
+E:\GITHUB\Fruit-management\Fruits\obj\Debug\Fruits.csproj.CoreCompileInputs.cache
+E:\GITHUB\Fruit-management\Fruits\obj\Debug\Fruits.exe
+E:\GITHUB\Fruit-management\Fruits\obj\Debug\Fruits.pdb
